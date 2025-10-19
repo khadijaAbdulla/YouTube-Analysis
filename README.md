@@ -5,7 +5,7 @@ Youtube DataSet analysis - using python
 Youtube Dataset Analysis
 ### Overview:
 This project analyzes the data for Great Britain's Trending Youtube videos, and ... -TBC-
-### DataSet:
+### Information about the DataSet:
 - Name: Youtube
-- Source: [Kaggle]([url](https://www.kaggle.com/datasets/datasnaek/youtube-new/data))
+- Source: [https://www.kaggle.com/datasets/datasnaek/youtube-new/data](url)
 -  
