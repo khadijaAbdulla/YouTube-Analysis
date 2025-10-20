@@ -4,7 +4,8 @@ Youtube DataSet analysis - using python
 ### Project Title: 
 Youtube Dataset Analysis
 ### Overview:
-This project analyzes the data for Great Britain's Trending Youtube videos, and Analysing what factors affect how popular a YouTube video will be.
+This project analyzes the data for Great Britain's Trending Youtube videos, and Analysing what factors affect how popular a YouTube video will be. 
+Engagement in GB YouTube trending videos is mainly driven by specific categories , while other categories show weak or stagnant interaction. This imbalance suggests limited audience diversity and declining interest in non-entertainment content.
 ### Information about the DataSet:
 - Name: Trending YouTube Video Statistics (GB)
 - Source: [https://www.kaggle.com/datasets/datasnaek/youtube-new/data](url)
