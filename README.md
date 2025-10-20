@@ -26,6 +26,7 @@ Add the summary here
 - re
 - matplotlib.pyplot
 - seaborn
+- matplotlib.ticker
 ### Visuals:
 - Add the visuals -
 ### Troubleshooting:
