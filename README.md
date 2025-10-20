@@ -33,14 +33,15 @@ Add the summary here
 ##### FAQ1: Cannot locate the Dataset's CSV file:
 The file can be downloaded from the **Source** link provided above in the **Information about the DataSet** section. Access the link > Click on the **Download** button > Select **Download dataset as zip** > **Decompress** the downloaded file > Make sure that the "GBVideos.csv" file is moved to the project folder along with the python file. 
 
-#### FAQ2: I have Python installed, but my complier does not recongize the one of the dependencies when I run the porject file. 
-This means that Python is installed, but you need to add an extra cell with the following command: 
+#### FAQ2: I have Python installed, but my complier does not recongize one of the dependencies when I run the porject file. 
+This means that you need to install the library so that it is recognize by the complier. 
+Add an extra cell to the python file with the following command: 
 **pip install dependency-name**
 Example:
 **pip install numpy**
 Please make sure to run all the code again after the dependency installation.
 
-***Kindly contact us via email for any additional support KhadijaAbdullaA@gmail.com***
+***Kindly contact us via email for any additional support KhadijaAbdullaA@gmail.com,-other emails-***
 
 ### Limitations & Future Work:
 Since the YouTube algorithm changes over time and this dataset is limited to two years only(2007-2018), if we had more recent data, we could compare between the factors that effect the how popular a video is over the years.
