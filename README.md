@@ -11,7 +11,11 @@ This project analyzes the data for Great Britain's Trending Youtube videos, and 
 - Original Data Source: [https://github.com/DataSnaek/Trending-YouTube-Scraper](url)
 - Size: 38,916 Rows - 15 Columns
 ### Key Findings:
-Add the summary here
+- Music dominates in both views and engagement, confirming its leading role in GB’s trending content.
+- Weekend uploads, especially in Music and Entertainment, gain slightly higher engagement. 
+- Likes and comments are strongly correlated, reflecting positive audience interaction.
+- Blend entertainment with other genres to attract more audiences.
+- Use weekend spikes to launch interactive campaigns. 
 ### How to Run:
 1. Donwload the whole repository.
 2. Access the Dataset Link from the Source link and Download the dataset CSV file from Kaggle.
@@ -27,8 +31,6 @@ Add the summary here
 - matplotlib.pyplot
 - seaborn
 - matplotlib.ticker
-### Visuals:
-- Add the visuals -
 ### Troubleshooting:
 ##### FAQ1: Cannot locate the Dataset's CSV file:
 The file can be downloaded from the **Source** link provided above in the **Information about the DataSet** section. Access the link > Click on the **Download** button > Select **Download dataset as zip** > **Decompress** the downloaded file > Make sure that the "GBVideos.csv" file is moved to the project folder along with the python file. 
