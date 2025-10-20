@@ -41,5 +41,5 @@ Please make sure to run all the code again after the dependency installation.
 
 ***Kindly contact us via email for any additional support KhadijaAbdullaA@gmail.com***
 
-### Limitations:
-If we had more recent data it could lead to a more accurate analysis, since the YouTube algorithm changes over time and this dataset is limited to two years only(2017-2018).
+### Limitations & Future Work:
+Since the YouTube algorithm changes over time and this dataset is limited to two years only(2017-2018), if we had more recent data, we could compare between the factors that effect the how popular a video is over the years.
